@@ -1,0 +1,20 @@
+Task-1
+
+1. Install Jenkins and run Jenkins on port number 8081.
+2. Secure Jenkins server
+3. Create users called DevOps, Testing in Jenkins with Limited access.
+4. Configure labels and restrict the jobs to execute based on label only.
+5. Create Three sample jobs using the below URL.
+6. Source Code: https://github.com/betawins/Techie_horizon_Login_app.git
+7. Create one Jenkins job using GitHub Private repository.
+
+
+
+Task-2
+
+1. Configure 2 slave machines in the Jenkins master.
+2. Configure webhooks to the Jenkins job.
+3. Configure Poll SCM and Build Periodically options in the Jenkins job.
+4. Take a backup of the Jenkins server using a bash-script.
+5. Take a backup of Jenkins using the ThinBackup plugin.
+6. Set up a new Jenkins server and restore the backup taken in task 4.
